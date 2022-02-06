@@ -1,0 +1,269 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "h5baUxbXMoXXQDdi1jqzqA",
+      "projectApiToken": "wKcr2B4g7BZbZzcQa6pclzqiqY0cxfpeIOwjColbEUAVLVR8iP7e5faOabyLcEBpcQzOffzy1eDg1WL50oKYw",
+      "projectName": "Online course or book",
+      "version": "latest",
+      "cssFilePath": "plasmic/online_course_or_book/plasmic_online_course_or_book.module.css",
+      "components": [
+        {
+          "id": "TuJjF5DjUCD",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "h5baUxbXMoXXQDdi1jqzqA",
+          "renderModuleFilePath": "plasmic/online_course_or_book/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "Homepage.tsx"
+          },
+          "cssFilePath": "plasmic/online_course_or_book/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "U_rK3aBxPKvr",
+          "name": "Button",
+          "type": "managed",
+          "projectId": "h5baUxbXMoXXQDdi1jqzqA",
+          "renderModuleFilePath": "plasmic/online_course_or_book/PlasmicButton.tsx",
+          "importSpec": {
+            "modulePath": "Button.tsx"
+          },
+          "cssFilePath": "plasmic/online_course_or_book/PlasmicButton.module.css",
+          "scheme": "blackbox",
+          "componentType": "component",
+          "plumeType": "button"
+        }
+      ],
+      "icons": [
+        {
+          "id": "qY-Kt0CLgsxU",
+          "name": "ChecksvgIcon",
+          "moduleFilePath": "plasmic/online_course_or_book/icons/PlasmicIcon__Checksvg.tsx"
+        },
+        {
+          "id": "YiE8MLLqrwR7",
+          "name": "Icon3Icon",
+          "moduleFilePath": "plasmic/online_course_or_book/icons/PlasmicIcon__Icon3.tsx"
+        },
+        {
+          "id": "kayqxcKalAQZ",
+          "name": "Icon2Icon",
+          "moduleFilePath": "plasmic/online_course_or_book/icons/PlasmicIcon__Icon2.tsx"
+        },
+        {
+          "id": "HXR6I110ZIz3",
+          "name": "Icon28Icon",
+          "moduleFilePath": "plasmic/online_course_or_book/icons/PlasmicIcon__Icon28.tsx"
+        },
+        {
+          "id": "qkw1HoW_8nm2",
+          "name": "IconIcon",
+          "moduleFilePath": "plasmic/online_course_or_book/icons/PlasmicIcon__Icon.tsx"
+        },
+        {
+          "id": "cE6viGIz6n9x",
+          "name": "Icons8Right48SvgIcon",
+          "moduleFilePath": "plasmic/online_course_or_book/icons/PlasmicIcon__Icons8Right48Svg.tsx"
+        },
+        {
+          "id": "0LQGQmgOGfcF",
+          "name": "_227601RightArrowIconsvgIcon",
+          "moduleFilePath": "plasmic/online_course_or_book/icons/PlasmicIcon___227601RightArrowIconsvg.tsx"
+        },
+        {
+          "id": "Of5ZwnIwMUdO",
+          "name": "Icon4Icon",
+          "moduleFilePath": "plasmic/online_course_or_book/icons/PlasmicIcon__Icon4.tsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "6XhbQlJJSluG",
+          "name": "logo.svg",
+          "filePath": "plasmic/online_course_or_book/images/logosvg.svg"
+        },
+        {
+          "id": "-FPGyPC6ReqR",
+          "name": "marketing-playbook.png",
+          "filePath": "plasmic/online_course_or_book/images/marketingPlaybookpng.png"
+        },
+        {
+          "id": "umOYwn-oG8-n",
+          "name": "Group",
+          "filePath": "plasmic/online_course_or_book/images/group.svg"
+        },
+        {
+          "id": "omUL9u9mo3BX",
+          "name": "Group 2",
+          "filePath": "plasmic/online_course_or_book/images/group2.svg"
+        },
+        {
+          "id": "uBRZajZ_wgO-",
+          "name": "Group 3",
+          "filePath": "plasmic/online_course_or_book/images/group3.svg"
+        },
+        {
+          "id": "8h-8D_9C7VW6",
+          "name": "Group 4",
+          "filePath": "plasmic/online_course_or_book/images/group4.svg"
+        },
+        {
+          "id": "_LmWgMDm4Wv7",
+          "name": "Group 5",
+          "filePath": "plasmic/online_course_or_book/images/group5.svg"
+        },
+        {
+          "id": "FiQ7iXb8NgRS",
+          "name": "Group 6",
+          "filePath": "plasmic/online_course_or_book/images/group6.svg"
+        },
+        {
+          "id": "C8sBb8wmyi2X",
+          "name": "Group 7",
+          "filePath": "plasmic/online_course_or_book/images/group7.svg"
+        },
+        {
+          "id": "WZPufdEdsTVU",
+          "name": "book-inside.png",
+          "filePath": "plasmic/online_course_or_book/images/bookInsidepng.png"
+        },
+        {
+          "id": "-NTsNSKRUoJB",
+          "name": "background-2.jpg",
+          "filePath": "plasmic/online_course_or_book/images/background2Jpg.jpeg"
+        },
+        {
+          "id": "IsSviwUya6tB",
+          "name": "hilary-ouse.png",
+          "filePath": "plasmic/online_course_or_book/images/hilaryOusepng.png"
+        },
+        {
+          "id": "QXmw355HkaJB",
+          "name": "book-inside-2.png",
+          "filePath": "plasmic/online_course_or_book/images/bookInside2Png.png"
+        },
+        {
+          "id": "UgydbMD3D9RI",
+          "name": "background.jpg",
+          "filePath": "plasmic/online_course_or_book/images/backgroundjpg.jpeg"
+        },
+        {
+          "id": "bUXbAiM7NLod",
+          "name": "brandon-guidelines.jpg",
+          "filePath": "plasmic/online_course_or_book/images/brandonGuidelinesjpg.jpeg"
+        },
+        {
+          "id": "oD3Ouc051uSv",
+          "name": "logo (1).svg",
+          "filePath": "plasmic/online_course_or_book/images/logo1Svg.svg"
+        },
+        {
+          "id": "NcicCOyNzi7c",
+          "name": "icons8-twitter.svg",
+          "filePath": "plasmic/online_course_or_book/images/icons8Twittersvg.svg"
+        },
+        {
+          "id": "ee0SSK--HzG8",
+          "name": "icons8-facebook.svg",
+          "filePath": "plasmic/online_course_or_book/images/icons8Facebooksvg.svg"
+        },
+        {
+          "id": "wytlET0gZgpn",
+          "name": "icons8-youtube.svg",
+          "filePath": "plasmic/online_course_or_book/images/icons8Youtubesvg.svg"
+        },
+        {
+          "id": "_Z-AlFr0lVhY",
+          "name": "icons8-vimeo.svg",
+          "filePath": "plasmic/online_course_or_book/images/icons8Vimeosvg.svg"
+        },
+        {
+          "id": "xh3Yqa5Un2CN",
+          "name": "image",
+          "filePath": "plasmic/online_course_or_book/images/image.png"
+        },
+        {
+          "id": "jG9mQP2DXfXe",
+          "name": "image 2",
+          "filePath": "plasmic/online_course_or_book/images/image2.png"
+        },
+        {
+          "id": "fwV60vMSUA1e",
+          "name": "image 3",
+          "filePath": "plasmic/online_course_or_book/images/image3.png"
+        },
+        {
+          "id": "9GuharkCkKFk",
+          "name": "image 4",
+          "filePath": "plasmic/online_course_or_book/images/image4.png"
+        },
+        {
+          "id": "__bsV6ZJkcTc",
+          "name": "image 5",
+          "filePath": "plasmic/online_course_or_book/images/image5.png"
+        },
+        {
+          "id": "hS6wiWPscVp_",
+          "name": "image 6",
+          "filePath": "plasmic/online_course_or_book/images/image6.png"
+        },
+        {
+          "id": "dOGkC1UXxqoH",
+          "name": "image 7",
+          "filePath": "plasmic/online_course_or_book/images/image7.png"
+        },
+        {
+          "id": "l6TBnkWx6YPB",
+          "name": "image 8",
+          "filePath": "plasmic/online_course_or_book/images/image8.png"
+        },
+        {
+          "id": "DtjIFcNJNPxP",
+          "name": "image 9",
+          "filePath": "plasmic/online_course_or_book/images/image9.png"
+        },
+        {
+          "id": "2z0h-Stsud-P",
+          "name": "image 10",
+          "filePath": "plasmic/online_course_or_book/images/image10.png"
+        }
+      ],
+      "indirect": false,
+      "codeComponents": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "-UhOqM2b1r2y",
+        "name": "Screen",
+        "projectId": "h5baUxbXMoXXQDdi1jqzqA",
+        "contextFilePath": "plasmic/online_course_or_book/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "cliVersion": "0.1.169",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.169/dist/plasmic.schema.json"
+}
